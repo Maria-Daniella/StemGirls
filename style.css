@@ -296,7 +296,21 @@ p {
 input[type=text] {
   width: 50em;  height: 2em;
 }
-
+@media only screen and (max-width: 1200px){
+  body{
+    display: block;
+  }
+}
+@media only screen and (max-width: 600px){
+body{
+  display: block;
+}
+}
+@media only screen and (max-width: 425px){
+body{
+  display:block;
+}
+}
 
 
   
