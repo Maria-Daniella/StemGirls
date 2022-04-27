@@ -26,6 +26,7 @@ h3{
   text-align: center;
   text-shadow: 2px 4px 4px #000000;
 }
+
 .btn{
   font-size: 50px;
   text-align: center;
@@ -100,6 +101,8 @@ p {
 
   
 }
+#text{
+    text-align:center;
 
 #special {
     background: #000;
