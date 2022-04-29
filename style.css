@@ -20,6 +20,8 @@ nav.main  {
 	
 }
 .main button{
+	display: flex;
+	float: right;
 	outline: 2px;
     border: 2px;
     border-radius: 5rem;
@@ -40,7 +42,7 @@ nav.main  {
 h1{
     text-align: center;
     text-shadow: 5px 5px;
-    color: grey;
+    color: white;
     text-shadow: 2px 4px 4px #000000;
     font-size: 0px;
 }
@@ -79,7 +81,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #1d1d24;
+    color: white;
     position: relative;
     padding: 5px 0;
 }
@@ -94,7 +96,7 @@ nav ul li a:after{
     left: 0;
     width: 0;
     height: 3px;
-    background: white;
+    background: pink;
     transition: 3s;
     bottom: 0;
 
