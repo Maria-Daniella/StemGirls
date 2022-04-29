@@ -20,8 +20,8 @@ nav.main  {
 	
 }
 .main button{
-	outline: none;
-    border: none;
+	outline: 2px;
+    border: 2px;
     border-radius: 5rem;
     color: #333;
     font-size: 1.6rem;
