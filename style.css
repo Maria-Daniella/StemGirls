@@ -327,6 +327,9 @@ p {
 input[type=text] {
   width: 50em;  height: 2em;
 }
+footer{
+	text-align: center;
+}
 
 
 
