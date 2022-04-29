@@ -19,6 +19,24 @@ nav.main  {
 	background-blend-mode: darken;
 	
 }
+.main button{
+	outline: none;
+    border: none;
+    border-radius: 5rem;
+    color: #333;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    letter-spacing: .2rem;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    height: 3.5rem;
+    width: 14rem;
+    background: #333;
+    color: #fff;
+}
 h1{
     text-align: center;
     text-shadow: 5px 5px;
