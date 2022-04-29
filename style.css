@@ -85,7 +85,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: greenyellow;
+    color: grey;
 
 }
 nav ul li a:after{
@@ -94,7 +94,7 @@ nav ul li a:after{
     left: 0;
     width: 0;
     height: 3px;
-    background: green;
+    background: white;
     transition: 3s;
     bottom: 0;
 
